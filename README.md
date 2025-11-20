@@ -11,3 +11,21 @@ Headphone amplifier with the following features:
 - PGA2311 digital volume controller
 -
 - ![block_diagram](https://github.com/user-attachments/assets/0ab7cf59-2694-4c74-ad1f-6dec4d1868a6)
+
+
+To Do:
+- Update Block Diagram with power architecture changes
+- Layout:
+-   Verify component placement
+-   Routing!
+- Schematic:
+-   Clean up placement
+-   Part selection for capacitors, verify voltages on schematic
+-   Reduce footprint sizes where possible, mainly capacitors
+-   Pick proper connectors for the front panel stuff
+- ESP32 Code
+-   Port over spectrum visualizer
+- CAD
+-   Import board step file
+-   Figure out rear mounting
+-   Layout front/rear panels 
