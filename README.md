@@ -9,8 +9,9 @@ Headphone amplifier with the following features:
 - ADAU1701 DSP
 - PCM5102A Digital to Analog Converter
 - PGA2311 digital volume controller
--
+
 - ![block_diagram](https://github.com/user-attachments/assets/0ab7cf59-2694-4c74-ad1f-6dec4d1868a6)
+<img width="822" height="552" alt="CAD" src="https://github.com/user-attachments/assets/4e9519e5-2cdd-4568-832d-b684f2f3d2b4" />
 
 
 To Do:
@@ -23,6 +24,7 @@ To Do:
 -   Part selection for capacitors, verify voltages on schematic
 -   Reduce footprint sizes where possible, mainly capacitors
 -   Pick proper connectors for the front panel stuff
+-   Decide on header stack height for the York and ESP32
 - ESP32 Code
 -   Port over spectrum visualizer
 - CAD
