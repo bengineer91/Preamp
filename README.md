@@ -10,24 +10,29 @@ Headphone amplifier with the following features:
 - PCM5102A Digital to Analog Converter
 - PGA2311 digital volume controller
 
-- ![block_diagram](https://github.com/user-attachments/assets/0ab7cf59-2694-4c74-ad1f-6dec4d1868a6)
+![block_diagram](https://github.com/user-attachments/assets/0ab7cf59-2694-4c74-ad1f-6dec4d1868a6)
 <img width="822" height="552" alt="CAD" src="https://github.com/user-attachments/assets/4e9519e5-2cdd-4568-832d-b684f2f3d2b4" />
 
 
-To Do:
-- Update Block Diagram with power architecture changes
-- Layout:
--   Verify component placement
--   Routing!
-- Schematic:
--   Clean up placement
--   Part selection for capacitors, verify voltages on schematic
--   Reduce footprint sizes where possible, mainly capacitors
--   Pick proper connectors for the front panel stuff
--   Decide on header stack height for the York and ESP32
-- ESP32 Code
--   Port over spectrum visualizer
-- CAD
--   Import board step file
--   Figure out rear mounting
--   Layout front/rear panels 
+**To Do:**
+[x] Update Block Diagram with power architecture changes
+
+Layout:
+[ ] Verify component placement
+[ ] Routing!
+
+Schematic:
+[ ] Clean up placement
+[ ] Part selection for capacitors, verify voltages on schematic
+[x] Reduce footprint sizes where possible, mainly capacitors
+[x] Pick proper connectors for the front panel stuff
+[ ] Decide on header stack height for the York and ESP32
+
+ESP32 Code
+[ ] Port over spectrum visualizer
+[ ] PGA control
+
+CAD
+[x] Import board step file
+[x] Figure out rear mounting
+[ ] Layout front/rear panels 
