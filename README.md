@@ -14,25 +14,25 @@ Headphone amplifier with the following features:
 <img width="822" height="552" alt="CAD" src="https://github.com/user-attachments/assets/4e9519e5-2cdd-4568-832d-b684f2f3d2b4" />
 
 
-**To Do:**
+**To Do:** <br/>
 [x] Update Block Diagram with power architecture changes<br/>
 
-Layout:
+Layout:<br/>
 [ ] Verify component placement<br/>
 [ ] Routing!<br/>
 
-Schematic:
+Schematic:<br/>
 [ ] Clean up placement<br/>
 [ ] Part selection for capacitors, verify voltages on schematic<br/>
 [x] Reduce footprint sizes where possible, mainly capacitors<br/>
 [x] Pick proper connectors for the front panel stuff<br/>
 [ ] Decide on header stack height for the York and ESP32<br/>
 
-ESP32 Code
+ESP32 Code<br/>
 [ ] Port over spectrum visualizer<br/>
 [ ] PGA control<br/>
 
-CAD
+CAD<br/>
 [x] Import board step file<br/>
 [x] Figure out rear mounting<br/>
 [ ] Layout front/rear panels <br/>
