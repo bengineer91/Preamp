@@ -22,7 +22,7 @@ Layout:
 [ ] Routing!
 
 Schematic:
-[ ] Clean up placement
+[ ] Clean up placement<br/>
 [ ] Part selection for capacitors, verify voltages on schematic
 [x] Reduce footprint sizes where possible, mainly capacitors
 [x] Pick proper connectors for the front panel stuff
