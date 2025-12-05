@@ -11,7 +11,8 @@ Headphone amplifier with the following features:
 - PGA2311 digital volume controller
 
 ![block_diagram](https://github.com/user-attachments/assets/0ab7cf59-2694-4c74-ad1f-6dec4d1868a6)
-<img width="822" height="552" alt="CAD" src="https://github.com/user-attachments/assets/4e9519e5-2cdd-4568-832d-b684f2f3d2b4" />
+<img width="859" height="575" alt="Capture" src="https://github.com/user-attachments/assets/7675650f-9f69-47a5-aeb8-d7bf339ea708" />
+
 
 
 **To Do:** <br/>
