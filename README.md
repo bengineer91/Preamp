@@ -1,4 +1,6 @@
 # Preamp
+** Note ** This got to the ready-to-buy-boards stage when I archived it for more interesting things.
+
 Headphone amplifier with the following features:
 
 - USBC Power Input
